@@ -1,2 +1,2 @@
 # kata_training
-practice kata
+practice kata training TDD

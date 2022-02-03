@@ -1,0 +1,22 @@
+{
+  "name": "kata_training",
+  "version": "1.0.0",
+  "description": "practice kata training TDD",
+  "main": "kata1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sri20/kata_training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sri20/kata_training/issues"
+  },
+  "homepage": "https://github.com/Sri20/kata_training#readme",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
